@@ -7,3 +7,12 @@ img{
   height: 300px;
 
 }
+.before{
+  background-color: blue;
+}
+.during{
+  background-color: orange;
+}
+.after{
+  background-color: yellow;
+}
