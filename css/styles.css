@@ -16,3 +16,15 @@ img{
 .after{
   background-color: yellow;
 }
+@media screen and (min-width: 300px) and (max-width: 480px) {
+  body {
+    background-color: black;
+    color: white;
+  }
+}
+@media screen and (min-width: 700px) and (max-width: 1000px) {
+  body {
+    background-color: red;
+    color: blue;
+  }
+}
